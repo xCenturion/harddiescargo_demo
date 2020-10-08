@@ -1,0 +1,12 @@
+
+.icon-1404:before { content: '\41'; } /* 'A' */
+.icon-air-shipping:before { content: '\42'; } /* 'B' */
+.icon-bike:before { content: '\43'; } /* 'C' */
+.icon-box:before { content: '\44'; } /* 'D' */
+.icon-construction:before { content: '\45'; } /* 'E' */
+.icon-ship:before { content: '\46'; } /* 'F' */
+.icon-truck:before { content: '\47'; } /* 'G' */
+.icon-car:before { content: '\48'; } /* 'H' */
+.icon-customer-service:before { content: '\49'; } /* 'I' */
+.icon-delivery-truck:before { content: '\4a'; } /* 'J' */
+.icon-package:before { content: '\e807'; } /* '' */

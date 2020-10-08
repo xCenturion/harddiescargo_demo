@@ -184,6 +184,7 @@
     // Initiate venobox (lightbox feature used in portofilo)
     $(document).ready(function() {
       $('.venobox').venobox();
+      frameheight: '200px'
     });
   });
 
@@ -194,5 +195,9 @@
     loop: true,
     items: 1
   });
+
+  $(document).ready(function() {
+    $('#tabelpengiriman').DataTable();
+  } );
 
 })(jQuery);
